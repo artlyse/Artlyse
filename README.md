@@ -1,3 +1,5 @@
+<p align="center">
+  
 ## Development Stack
 
 <div align="center">
