@@ -30,7 +30,6 @@
 
 ---
 
-```markdown
 <!-- ===================================================== -->
 <!--                    SYSTEM ACTIVITY                    -->
 <!-- ===================================================== -->
@@ -167,4 +166,4 @@ Activity calculated automatically from the GitHub activity of **Artlyse.dev**.
 <sub>Artlyse.dev · Designed and built with code.</sub>
 
 </div>
-```
+
