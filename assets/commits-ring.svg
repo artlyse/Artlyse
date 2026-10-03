@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+<defs><filter id="g" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>text{font-family:monospace} .p{animation:p 2s ease-in-out infinite} @keyframes p{50%{opacity:.55}}</style>
+<circle cx="100" cy="100" r="68" fill="none" stroke="#161b22" stroke-width="7"/>
+<circle class="p" cx="100" cy="100" r="68" fill="none" stroke="#00e7ff" stroke-width="7" stroke-linecap="round" transform="rotate(-90 100 100)" stroke-dasharray="427.2566008882119" stroke-dashoffset="93.9964521954066" filter="url(#g)"/>
+<text x="100" y="98" text-anchor="middle" fill="white" font-size="28">—</text><text x="100" y="122" text-anchor="middle" fill="#8b949e" font-size="11">COMMITS</text></svg>

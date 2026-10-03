@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="520" viewBox="0 0 520 520">
+<defs><filter id="g" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>text{font-family:monospace;fill:#8b949e}.o{stroke-dasharray:5 12;animation:s 30s linear infinite;transform-origin:260px 260px}@keyframes s{to{transform:rotate(360deg)}}.p{animation:p 2s ease-in-out infinite}@keyframes p{50%{opacity:.35}}</style>
+<circle cx="260" cy="260" r="196" fill="none" stroke="#21262d"/><circle class="o" cx="260" cy="260" r="178" fill="none" stroke="#00e7ff" opacity=".45"/>
+<g class="p" stroke="#00e7ff" stroke-width="6" stroke-linecap="round" filter="url(#g)">
+<path d="M260 118V80"/><path d="M331 137L350 104"/><path d="M383 189L416 170"/><path d="M402 260H445"/><path d="M383 331L416 350"/><path d="M331 383L350 421"/><path d="M260 402V450"/><path d="M189 383L167 421"/><path d="M137 331L99 353"/><path d="M118 260H70"/><path d="M137 189L104 170"/><path d="M189 137L167 99"/></g>
+<circle cx="260" cy="260" r="92" fill="#0d1117" stroke="#00e7ff" filter="url(#g)"/>
+<text x="260" y="250" text-anchor="middle" fill="white" font-size="19">ACTIVITY</text><text x="260" y="278" text-anchor="middle" fill="#00e7ff">RUN WORKFLOW</text>
+</svg>
