@@ -1,27 +1,3 @@
-```markdown
-<!-- ===================================================== -->
-<!--                    PROFILE HEADER                     -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-# Hi, I'm Etory
-
-### Software Engineering Student · Developer · AI & ML
-
-Building software, experimenting with artificial intelligence  
-and turning ideas into real projects.
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=00E7FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Full+Stack+Development;Artificial+Intelligence+%26+Machine+Learning;Computer+Vision;Always+learning+something+new..." />
-
-</div>
-
-<br>
-
----
-
 <!-- ===================================================== -->
 <!--                      ABOUT ME                         -->
 <!-- ===================================================== -->
