@@ -2,31 +2,7 @@
 <!--                      ABOUT ME                         -->
 <!-- ===================================================== -->
 
-## About Me
 
-```yaml
-name: Etory
-role: Software Engineering Student
-
-interests:
-  - Software Development
-  - Artificial Intelligence
-  - Machine Learning
-  - Computer Vision
-  - Backend Development
-  - System Architecture
-
-currently_working_on:
-  - Sign Language Recognition
-  - Computer Vision
-  - AI Models
-
-currently_learning:
-  - Machine Learning
-  - Deep Learning
-  - Software Architecture
-  - Computer Vision
-```
 
 <br>
 
