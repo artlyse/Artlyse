@@ -1,6 +1,7 @@
-<p align="center">
+<div align="center">
   
 ## Development Stack
+<br><br>
 
 <div align="center">
 
