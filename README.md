@@ -1,6 +1,5 @@
 <div align="center">
-<img width="256" height="59" alt="text" src="https://github.com/user-attachments/assets/1d803f61-78cb-451e-a077-5516208c86c8" />
-
+<img width="800" height="195" alt="WELCOME-3-10-2026" src="https://github.com/user-attachments/assets/027e0063-8f7a-4623-bbb3-df8f43eb52e2" />
 
 ## Development Stack
 <br><br>
